@@ -3,7 +3,7 @@ Pillow
 torch
 torchvision
 pytorch_lightning
-opencv-python-headless=4.6.0
+opencv-python-headless==4.6.0
 huggingface-hub==0.11.1
 timm==0.6.12
 tqdm==4.64.1
