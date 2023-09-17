@@ -1,7 +1,7 @@
 streamlit
 numpy
 pytorch
-Pillow
+pillow==7.1.0
 torch
 torchvision
 pytorch_lightning
