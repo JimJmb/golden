@@ -1,4 +1,6 @@
 streamlit
+numpy
+pytorch
 Pillow
 torch
 torchvision
@@ -10,7 +12,5 @@ tqdm==4.64.1
 wandb==0.13.9
 h5py==3.7.0
 matplotlib==3.6.2
-numpy
-pytorch
 scipy==1.10.0
 torchaudio==0.13.1
